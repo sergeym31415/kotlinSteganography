@@ -1,5 +1,4 @@
 import bmpFormat.BmpFormat
-import extensions.writeWhiteColorToFile
 import java.io.File
 
 fun main() {
